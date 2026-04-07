@@ -1,7 +1,7 @@
 {
   "source": "github",
-  "collected_at": "2026-04-07T09:41:25.057156Z",
-  "total": 54,
+  "collected_at": "2026-04-07T11:04:18.506960Z",
+  "total": 49,
   "items": [
     {
       "source": "github_release",
@@ -365,30 +365,12 @@
     },
     {
       "source": "github_trending",
-      "repo": "abhigyanpatwari/GitNexus",
-      "title": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": "23,971",
-      "published_at": "2026-04-07T09:41:25.053343Z"
-    },
-    {
-      "source": "github_trending",
       "repo": "google-ai-edge/gallery",
       "title": "google-ai-edge/gallery",
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": "18,290",
-      "published_at": "2026-04-07T09:41:25.053581Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "aaif-goose/goose",
-      "title": "aaif-goose/goose",
-      "url": "https://github.com/aaif-goose/goose",
-      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": "38,545",
-      "published_at": "2026-04-07T09:41:25.053802Z"
+      "stars": "18,322",
+      "published_at": "2026-04-07T11:04:18.504179Z"
     },
     {
       "source": "github_trending",
@@ -396,89 +378,8 @@
       "title": "google-ai-edge/LiteRT-LM",
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
       "description": "",
-      "stars": "2,253",
-      "published_at": "2026-04-07T09:41:25.054065Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "immich-app/immich",
-      "title": "immich-app/immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
-      "stars": "97,125",
-      "published_at": "2026-04-07T09:41:25.054264Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "KeygraphHQ/shannon",
-      "title": "KeygraphHQ/shannon",
-      "url": "https://github.com/KeygraphHQ/shannon",
-      "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "stars": "36,964",
-      "published_at": "2026-04-07T09:41:25.054461Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "NousResearch/hermes-agent",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "stars": "29,189",
-      "published_at": "2026-04-07T09:41:25.054653Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "tobi/qmd",
-      "title": "tobi/qmd",
-      "url": "https://github.com/tobi/qmd",
-      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "stars": "19,103",
-      "published_at": "2026-04-07T09:41:25.054858Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "TelegramMessenger/Telegram-iOS",
-      "title": "TelegramMessenger/Telegram-iOS",
-      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
-      "stars": "8,385",
-      "published_at": "2026-04-07T09:41:25.055070Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "kepano/obsidian-skills",
-      "title": "kepano/obsidian-skills",
-      "url": "https://github.com/kepano/obsidian-skills",
-      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "stars": "21,087",
-      "published_at": "2026-04-07T09:41:25.055314Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "ollama/ollama",
-      "title": "ollama/ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "stars": "167,945",
-      "published_at": "2026-04-07T09:41:25.055567Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "ggml-org/llama.cpp",
-      "title": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "stars": "102,240",
-      "published_at": "2026-04-07T09:41:25.055765Z"
-    },
-    {
-      "source": "github_trending",
-      "repo": "siddharthvaddem/openscreen",
-      "title": "siddharthvaddem/openscreen",
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "stars": "24,709",
-      "published_at": "2026-04-07T09:41:25.055956Z"
+      "stars": "2,277",
+      "published_at": "2026-04-07T11:04:18.504486Z"
     },
     {
       "source": "github_trending",
@@ -486,8 +387,62 @@
       "title": "NVIDIA/personaplex",
       "url": "https://github.com/NVIDIA/personaplex",
       "description": "PersonaPlex code.",
-      "stars": "7,587",
-      "published_at": "2026-04-07T09:41:25.056166Z"
+      "stars": "7,620",
+      "published_at": "2026-04-07T11:04:18.504707Z"
+    },
+    {
+      "source": "github_trending",
+      "repo": "abhigyanpatwari/GitNexus",
+      "title": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": "24,024",
+      "published_at": "2026-04-07T11:04:18.504977Z"
+    },
+    {
+      "source": "github_trending",
+      "repo": "tobi/qmd",
+      "title": "tobi/qmd",
+      "url": "https://github.com/tobi/qmd",
+      "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+      "stars": "19,145",
+      "published_at": "2026-04-07T11:04:18.505261Z"
+    },
+    {
+      "source": "github_trending",
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "title": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "",
+      "stars": "7,697",
+      "published_at": "2026-04-07T11:04:18.505491Z"
+    },
+    {
+      "source": "github_trending",
+      "repo": "elebumm/RedditVideoMakerBot",
+      "title": "elebumm/RedditVideoMakerBot",
+      "url": "https://github.com/elebumm/RedditVideoMakerBot",
+      "description": "Create Reddit Videos with just✨ one command ✨",
+      "stars": "9,693",
+      "published_at": "2026-04-07T11:04:18.505686Z"
+    },
+    {
+      "source": "github_trending",
+      "repo": "HKUDS/DeepTutor",
+      "title": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": "11,625",
+      "published_at": "2026-04-07T11:04:18.505879Z"
+    },
+    {
+      "source": "github_trending",
+      "repo": "TheCraigHewitt/seomachine",
+      "title": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "stars": "3,551",
+      "published_at": "2026-04-07T11:04:18.506071Z"
     }
   ]
 }

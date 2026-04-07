@@ -1,8 +1,118 @@
 {
   "source": "hn",
-  "collected_at": "2026-04-07T09:41:59.434011Z",
+  "collected_at": "2026-04-07T11:04:53.526679Z",
   "total": 105,
   "items": [
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "Show HN: Onboardly – Ask questions about any GitHub codebase in plain English",
+      "url": "https://onboardly-ruddy.vercel.app",
+      "published_at": "2026-04-07T10:57:30Z",
+      "author": "KevStatic",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47673275"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "The Artemis II astronauts have flown around the moon",
+      "url": "https://www.newscientist.com/article/2522113-the-artemis-ii-astronauts-have-flown-around-the-moon/",
+      "published_at": "2026-04-07T10:37:37Z",
+      "author": "jonbaer",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47673102"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "Show HN: HumansMap, Graph visualization of 3M+ Wikidata persons",
+      "url": "https://humansmap.com",
+      "published_at": "2026-04-07T10:32:20Z",
+      "author": "abstracthinker",
+      "points": 2,
+      "num_comments": 1,
+      "objectID": "47673057"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "Best Paper Awards in Computer Science over the past 30 years",
+      "url": "https://jeffhuang.com/best_paper_awards/",
+      "published_at": "2026-04-07T10:21:35Z",
+      "author": "birdculture",
+      "points": 3,
+      "num_comments": 0,
+      "objectID": "47672980"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "Show HN: Act-SDK – Wrap existing TypeScript functions as MCP tools in minutes",
+      "url": "https://www.act-sdk.dev/",
+      "published_at": "2026-04-07T10:14:37Z",
+      "author": "KupaMakunura",
+      "points": 2,
+      "num_comments": 0,
+      "objectID": "47672930"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "IDF admits Iran can keep firing missiles as long as war continues",
+      "url": "https://www.timesofisrael.com/idf-northern-command-chief-admits-israel-overestimated-damage-to-hezbollah-after-2024-war/",
+      "published_at": "2026-04-07T10:09:27Z",
+      "author": "johnbarron",
+      "points": 4,
+      "num_comments": 1,
+      "objectID": "47672888"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "Sam Altman Is Ignoring a Secret Weapon for His IPO",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-04-07/microsoft-could-be-openai-s-ipo-secret-weapon",
+      "published_at": "2026-04-07T10:02:52Z",
+      "author": "wslh",
+      "points": 1,
+      "num_comments": 1,
+      "objectID": "47672851"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "My nanochat with its onboard WASM-interpreter",
+      "url": "https://twitter.com/EastlondonDev/status/2041424155719901617",
+      "published_at": "2026-04-07T09:53:51Z",
+      "author": "tosh",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47672796"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "Show HN: Willitrun – check if any ML model runs on any device (benchmark-backed)",
+      "url": "https://github.com/smoothyy3/willitrun",
+      "published_at": "2026-04-07T09:51:51Z",
+      "author": "smoothyy",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47672781"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade over Long-Horizon Task",
+      "url": "https://arxiv.org/abs/2603.24755",
+      "published_at": "2026-04-07T09:45:49Z",
+      "author": "mohsen1",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47672749"
+    },
     {
       "source": "hn",
       "keyword": "aws",
@@ -10,8 +120,8 @@
       "url": "https://news.ycombinator.com/item?id=47672703",
       "published_at": "2026-04-07T09:38:51Z",
       "author": "roschdal",
-      "points": 3,
-      "num_comments": 0,
+      "points": 7,
+      "num_comments": 5,
       "objectID": "47672703"
     },
     {
@@ -76,7 +186,7 @@
       "url": "https://www.nbcnews.com/world/australia/australias-decorated-soldier-charged-committing-5-war-crime-murders-af-rcna267041",
       "published_at": "2026-04-07T09:11:02Z",
       "author": "KnuthIsGod",
-      "points": 1,
+      "points": 3,
       "num_comments": 0,
       "objectID": "47672528"
     },
@@ -109,119 +219,20 @@
       "url": "https://news.ycombinator.com/item?id=47672160",
       "published_at": "2026-04-07T08:18:13Z",
       "author": "josedelriver",
-      "points": 2,
-      "num_comments": 0,
+      "points": 3,
+      "num_comments": 1,
       "objectID": "47672160"
     },
     {
       "source": "hn",
-      "keyword": "aws",
-      "title": "Ask HN",
-      "url": "https://news.ycombinator.com/item?id=47672153",
-      "published_at": "2026-04-07T08:16:46Z",
-      "author": "josedelriver",
+      "keyword": "claude",
+      "title": "Someone made a digital whip to make Claude work faster",
+      "url": "https://old.reddit.com/r/ClaudeAI/comments/1sek7gk/someone_made_a_digital_whip_to_make_claude_work/",
+      "published_at": "2026-04-07T09:58:49Z",
+      "author": "matthieu_bl",
       "points": 2,
       "num_comments": 0,
-      "objectID": "47672153"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "Show HN: Brag.fast – Brag about the app you're building",
-      "url": "https://brag.fast",
-      "published_at": "2026-04-07T08:15:47Z",
-      "author": "the_robvb",
-      "points": 3,
-      "num_comments": 0,
-      "objectID": "47672146"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
-      "url": "https://news.ycombinator.com/item?id=47672141",
-      "published_at": "2026-04-07T08:15:13Z",
-      "author": "Anuridhi",
-      "points": 3,
-      "num_comments": 0,
-      "objectID": "47672141"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "Astronauts set distance record, revealing the Moon as a place to be explored",
-      "url": "https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/",
-      "published_at": "2026-04-07T08:10:21Z",
-      "author": "quapster",
-      "points": 4,
-      "num_comments": 0,
-      "objectID": "47672108"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "Show HN: LLMs as Planners, Not Reasoners",
-      "url": "https://github.com/dkohlsdorf/gemini_prolog/",
-      "published_at": "2026-04-07T08:08:43Z",
-      "author": "dkohlsdorf",
-      "points": 4,
-      "num_comments": 0,
-      "objectID": "47672094"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
-      "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
-      "published_at": "2026-04-07T08:08:42Z",
-      "author": "Growtika",
-      "points": 2,
-      "num_comments": 0,
-      "objectID": "47672093"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "The Workers Opting to Retire Instead of Taking on AI",
-      "url": "https://www.wsj.com/lifestyle/the-workers-opting-to-retire-instead-of-taking-on-ai-3400fb92",
-      "published_at": "2026-04-07T08:06:43Z",
-      "author": "fortran77",
-      "points": 2,
-      "num_comments": 4,
-      "objectID": "47672082"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "Ask HN: Make AI Filter for Hacker News",
-      "url": "https://news.ycombinator.com/item?id=47672065",
-      "published_at": "2026-04-07T08:03:40Z",
-      "author": "gethly",
-      "points": 2,
-      "num_comments": 3,
-      "objectID": "47672065"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "Ask HN: Can AI explain legacy code to business users faster than devs?",
-      "url": "https://news.ycombinator.com/item?id=47671976",
-      "published_at": "2026-04-07T07:49:36Z",
-      "author": "L1nefeed",
-      "points": 1,
-      "num_comments": 0,
-      "objectID": "47671976"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "Australia EV sales surge in March amid fuel fears and higher petrol prices",
-      "url": "https://www.abc.net.au/news/2026-04-07/australia-ev-sales-spike-amid-fuel-fears-rising-petrol-prices/106516598",
-      "published_at": "2026-04-07T07:45:37Z",
-      "author": "01-_-",
-      "points": 4,
-      "num_comments": 1,
-      "objectID": "47671950"
+      "objectID": "47672825"
     },
     {
       "source": "hn",
@@ -231,7 +242,7 @@
       "published_at": "2026-04-07T09:10:16Z",
       "author": "RyanTech00",
       "points": 1,
-      "num_comments": 1,
+      "num_comments": 2,
       "objectID": "47672520"
     },
     {
@@ -274,7 +285,7 @@
       "url": "https://news.ycombinator.com/item?id=47670854",
       "published_at": "2026-04-07T04:45:06Z",
       "author": "stickynotememo",
-      "points": 2,
+      "points": 3,
       "num_comments": 1,
       "objectID": "47670854"
     },
@@ -286,7 +297,7 @@
       "published_at": "2026-04-07T03:35:00Z",
       "author": "gpi",
       "points": 12,
-      "num_comments": 4,
+      "num_comments": 6,
       "objectID": "47670438"
     },
     {
@@ -412,24 +423,13 @@
     },
     {
       "source": "hn",
-      "keyword": "claude",
-      "title": "Patch Claude Code system prompt to fix laziness",
-      "url": "https://gist.github.com/roman01la/483d1db15043018096ac3babf5688881",
-      "published_at": "2026-04-06T23:34:25Z",
-      "author": "murkt",
-      "points": 2,
-      "num_comments": 0,
-      "objectID": "47668823"
-    },
-    {
-      "source": "hn",
       "keyword": "openai",
       "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
       "published_at": "2026-04-07T09:29:11Z",
       "author": "marksully",
-      "points": 2,
-      "num_comments": 0,
+      "points": 46,
+      "num_comments": 54,
       "objectID": "47672642"
     },
     {
@@ -439,9 +439,20 @@
       "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
       "published_at": "2026-04-07T08:11:43Z",
       "author": "Palmik",
-      "points": 2,
+      "points": 3,
       "num_comments": 0,
       "objectID": "47672120"
+    },
+    {
+      "source": "hn",
+      "keyword": "openai",
+      "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
+      "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
+      "published_at": "2026-04-07T08:08:42Z",
+      "author": "Growtika",
+      "points": 2,
+      "num_comments": 0,
+      "objectID": "47672093"
     },
     {
       "source": "hn",
@@ -621,14 +632,14 @@
     },
     {
       "source": "hn",
-      "keyword": "openai",
-      "title": "An Inside Look at OpenAI and Anthropic's Finances Ahead of Their IPOs",
-      "url": "https://www.wsj.com/tech/ai/openai-anthropic-ipo-finances-04b3cfb9",
-      "published_at": "2026-04-06T04:34:20Z",
-      "author": "1vuio0pswjnm7",
-      "points": 6,
-      "num_comments": 1,
-      "objectID": "47657041"
+      "keyword": "azure",
+      "title": "Open-source Azure emulator (LocalStack for Azure)",
+      "url": "https://miniblue.io/",
+      "published_at": "2026-04-07T09:57:01Z",
+      "author": "abusarah_tech",
+      "points": 2,
+      "num_comments": 0,
+      "objectID": "47672814"
     },
     {
       "source": "hn",
@@ -681,7 +692,7 @@
       "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
       "published_at": "2026-04-02T16:00:27Z",
       "author": "axelriet",
-      "points": 1279,
+      "points": 1280,
       "num_comments": 646,
       "objectID": "47616242"
     },
@@ -841,14 +852,14 @@
     },
     {
       "source": "hn",
-      "keyword": "azure",
-      "title": "Show HN: Rostra – Scroll the Greats",
-      "url": "https://www.readrostra.com",
-      "published_at": "2026-03-25T21:55:11Z",
-      "author": "richhwang",
+      "keyword": "llm",
+      "title": "Sampling from LLMs: Art and Science",
+      "url": "https://kachkach.com/blog/llm-sampling",
+      "published_at": "2026-04-07T09:59:24Z",
+      "author": "halflings",
       "points": 1,
       "num_comments": 0,
-      "objectID": "47523810"
+      "objectID": "47672828"
     },
     {
       "source": "hn",
@@ -897,6 +908,17 @@
     {
       "source": "hn",
       "keyword": "llm",
+      "title": "Elon Musk, Quantum Microtubules, and the Race for the Conscious Machine",
+      "url": "https://news.ycombinator.com/item?id=47672141",
+      "published_at": "2026-04-07T08:15:13Z",
+      "author": "Anuridhi",
+      "points": 3,
+      "num_comments": 0,
+      "objectID": "47672141"
+    },
+    {
+      "source": "hn",
+      "keyword": "llm",
       "title": "Simulating societies with LLM agents in TypeScript",
       "url": "https://github.com/francemazzi/worldsim",
       "published_at": "2026-04-07T08:12:59Z",
@@ -904,6 +926,17 @@
       "points": 3,
       "num_comments": 0,
       "objectID": "47672127"
+    },
+    {
+      "source": "hn",
+      "keyword": "llm",
+      "title": "Show HN: LLMs as Planners, Not Reasoners",
+      "url": "https://github.com/dkohlsdorf/gemini_prolog/",
+      "published_at": "2026-04-07T08:08:43Z",
+      "author": "dkohlsdorf",
+      "points": 4,
+      "num_comments": 0,
+      "objectID": "47672094"
     },
     {
       "source": "hn",
@@ -984,39 +1017,6 @@
     },
     {
       "source": "hn",
-      "keyword": "llm",
-      "title": "Show HN: Portable offline LLM knowledge system that runs in browser",
-      "url": "https://news.ycombinator.com/item?id=47670330",
-      "published_at": "2026-04-07T03:16:23Z",
-      "author": "muthuishere",
-      "points": 1,
-      "num_comments": 0,
-      "objectID": "47670330"
-    },
-    {
-      "source": "hn",
-      "keyword": "llm",
-      "title": "I'm building a local-first CLI \"knowledge foundry\" for LLM workflows",
-      "url": "https://twitter.com/theopuslabs/status/2041316189515723028",
-      "published_at": "2026-04-07T02:58:36Z",
-      "author": "opuslabs",
-      "points": 2,
-      "num_comments": 0,
-      "objectID": "47670241"
-    },
-    {
-      "source": "hn",
-      "keyword": "llm",
-      "title": "Lab Gloves May Be Skewing Microplastics Data",
-      "url": "https://hackaday.com/2026/04/06/lab-gloves-may-be-skewing-microplastics-data/",
-      "published_at": "2026-04-07T02:51:22Z",
-      "author": "lxm",
-      "points": 2,
-      "num_comments": 1,
-      "objectID": "47670193"
-    },
-    {
-      "source": "hn",
       "keyword": "anthropic",
       "title": "Anthropic revenue growth: $11 billion since start of March",
       "url": "https://news.ycombinator.com/item?id=47670850",
@@ -1044,8 +1044,8 @@
       "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
       "published_at": "2026-04-06T21:52:08Z",
       "author": "l1n",
-      "points": 244,
-      "num_comments": 109,
+      "points": 254,
+      "num_comments": 114,
       "objectID": "47667717"
     },
     {
@@ -1077,7 +1077,7 @@
       "url": "https://twitter.com/GergelyOrosz/status/2041133254586122605",
       "published_at": "2026-04-06T15:40:49Z",
       "author": "tosh",
-      "points": 62,
+      "points": 63,
       "num_comments": 30,
       "objectID": "47662350"
     },
@@ -1099,8 +1099,8 @@
       "url": "https://github.com/anthropics/claude-code/issues/42796",
       "published_at": "2026-04-06T13:50:35Z",
       "author": "StanAngeloff",
-      "points": 1088,
-      "num_comments": 602,
+      "points": 1135,
+      "num_comments": 624,
       "objectID": "47660925"
     },
     {

@@ -1,10 +1,114 @@
 [
   {
     "source": "hn",
+    "title": "Show HN: Onboardly – Ask questions about any GitHub codebase in plain English",
+    "url": "https://onboardly-ruddy.vercel.app",
+    "published_at": "2026-04-07T10:57:30Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "The Artemis II astronauts have flown around the moon",
+    "url": "https://www.newscientist.com/article/2522113-the-artemis-ii-astronauts-have-flown-around-the-moon/",
+    "published_at": "2026-04-07T10:37:37Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: HumansMap, Graph visualization of 3M+ Wikidata persons",
+    "url": "https://humansmap.com",
+    "published_at": "2026-04-07T10:32:20Z",
+    "score": 2,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "Best Paper Awards in Computer Science over the past 30 years",
+    "url": "https://jeffhuang.com/best_paper_awards/",
+    "published_at": "2026-04-07T10:21:35Z",
+    "score": 3,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Act-SDK – Wrap existing TypeScript functions as MCP tools in minutes",
+    "url": "https://www.act-sdk.dev/",
+    "published_at": "2026-04-07T10:14:37Z",
+    "score": 2,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "IDF admits Iran can keep firing missiles as long as war continues",
+    "url": "https://www.timesofisrael.com/idf-northern-command-chief-admits-israel-overestimated-damage-to-hezbollah-after-2024-war/",
+    "published_at": "2026-04-07T10:09:27Z",
+    "score": 4,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "Sam Altman Is Ignoring a Secret Weapon for His IPO",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-04-07/microsoft-could-be-openai-s-ipo-secret-weapon",
+    "published_at": "2026-04-07T10:02:52Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "Sampling from LLMs: Art and Science",
+    "url": "https://kachkach.com/blog/llm-sampling",
+    "published_at": "2026-04-07T09:59:24Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "Someone made a digital whip to make Claude work faster",
+    "url": "https://old.reddit.com/r/ClaudeAI/comments/1sek7gk/someone_made_a_digital_whip_to_make_claude_work/",
+    "published_at": "2026-04-07T09:58:49Z",
+    "score": 2,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "Open-source Azure emulator (LocalStack for Azure)",
+    "url": "https://miniblue.io/",
+    "published_at": "2026-04-07T09:57:01Z",
+    "score": 2,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "My nanochat with its onboard WASM-interpreter",
+    "url": "https://twitter.com/EastlondonDev/status/2041424155719901617",
+    "published_at": "2026-04-07T09:53:51Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "Show HN: Willitrun – check if any ML model runs on any device (benchmark-backed)",
+    "url": "https://github.com/smoothyy3/willitrun",
+    "published_at": "2026-04-07T09:51:51Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "SlopCodeBench: Benchmarking How Coding Agents Degrade over Long-Horizon Task",
+    "url": "https://arxiv.org/abs/2603.24755",
+    "published_at": "2026-04-07T09:45:49Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
     "title": "Ask HN: Why is USA evil now?",
     "url": "https://news.ycombinator.com/item?id=47672703",
     "published_at": "2026-04-07T09:38:51Z",
-    "score": 3,
+    "score": 7,
     "summary_ko": null
   },
   {
@@ -28,7 +132,7 @@
     "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
     "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
     "published_at": "2026-04-07T09:29:11Z",
-    "score": 2,
+    "score": 46,
     "summary_ko": null
   },
   {
@@ -60,7 +164,7 @@
     "title": "Australia's most decorated soldier charged with committing war crime murders",
     "url": "https://www.nbcnews.com/world/australia/australias-decorated-soldier-charged-committing-5-war-crime-murders-af-rcna267041",
     "published_at": "2026-04-07T09:11:02Z",
-    "score": 1,
+    "score": 3,
     "summary_ko": null
   },
   {
@@ -124,22 +228,6 @@
     "title": "Ask HN: Gmail's missing paste-to-link feature",
     "url": "https://news.ycombinator.com/item?id=47672160",
     "published_at": "2026-04-07T08:18:13Z",
-    "score": 2,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "Ask HN",
-    "url": "https://news.ycombinator.com/item?id=47672153",
-    "published_at": "2026-04-07T08:16:46Z",
-    "score": 2,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "Show HN: Brag.fast – Brag about the app you're building",
-    "url": "https://brag.fast",
-    "published_at": "2026-04-07T08:15:47Z",
     "score": 3,
     "summary_ko": null
   },
@@ -172,15 +260,7 @@
     "title": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China",
     "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
     "published_at": "2026-04-07T08:11:43Z",
-    "score": 2,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "Astronauts set distance record, revealing the Moon as a place to be explored",
-    "url": "https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/",
-    "published_at": "2026-04-07T08:10:21Z",
-    "score": 4,
+    "score": 3,
     "summary_ko": null
   },
   {
@@ -201,42 +281,10 @@
   },
   {
     "source": "hn",
-    "title": "The Workers Opting to Retire Instead of Taking on AI",
-    "url": "https://www.wsj.com/lifestyle/the-workers-opting-to-retire-instead-of-taking-on-ai-3400fb92",
-    "published_at": "2026-04-07T08:06:43Z",
-    "score": 2,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "Ask HN: Make AI Filter for Hacker News",
-    "url": "https://news.ycombinator.com/item?id=47672065",
-    "published_at": "2026-04-07T08:03:40Z",
-    "score": 2,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "Ask HN: Can AI explain legacy code to business users faster than devs?",
-    "url": "https://news.ycombinator.com/item?id=47671976",
-    "published_at": "2026-04-07T07:49:36Z",
-    "score": 1,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
     "title": "Show HN: Semantik, a vector broker that routes by semantic meaning",
     "url": "https://www.noetive.io/semantik",
     "published_at": "2026-04-07T07:47:58Z",
     "score": 1,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "Australia EV sales surge in March amid fuel fears and higher petrol prices",
-    "url": "https://www.abc.net.au/news/2026-04-07/australia-ev-sales-spike-amid-fuel-fears-rising-petrol-prices/106516598",
-    "published_at": "2026-04-07T07:45:37Z",
-    "score": 4,
     "summary_ko": null
   },
   {
@@ -300,7 +348,7 @@
     "title": "Skunk: a Rust based language that compiles to Go",
     "url": "https://news.ycombinator.com/item?id=47670854",
     "published_at": "2026-04-07T04:45:06Z",
-    "score": 2,
+    "score": 3,
     "summary_ko": null
   },
   {
@@ -337,34 +385,10 @@
   },
   {
     "source": "hn",
-    "title": "Show HN: Portable offline LLM knowledge system that runs in browser",
-    "url": "https://news.ycombinator.com/item?id=47670330",
-    "published_at": "2026-04-07T03:16:23Z",
-    "score": 1,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
     "title": "Why the majority of vibe coded projects fail",
     "url": "https://www.reddit.com/r/ClaudeAI/s/Vkkzi4lUW0",
     "published_at": "2026-04-07T03:05:31Z",
     "score": 22,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "I'm building a local-first CLI \"knowledge foundry\" for LLM workflows",
-    "url": "https://twitter.com/theopuslabs/status/2041316189515723028",
-    "published_at": "2026-04-07T02:58:36Z",
-    "score": 2,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "Lab Gloves May Be Skewing Microplastics Data",
-    "url": "https://hackaday.com/2026/04/06/lab-gloves-may-be-skewing-microplastics-data/",
-    "published_at": "2026-04-07T02:51:22Z",
-    "score": 2,
     "summary_ko": null
   },
   {
@@ -472,14 +496,6 @@
     "summary_ko": null
   },
   {
-    "source": "hn",
-    "title": "Patch Claude Code system prompt to fix laziness",
-    "url": "https://gist.github.com/roman01la/483d1db15043018096ac3babf5688881",
-    "published_at": "2026-04-06T23:34:25Z",
-    "score": 2,
-    "summary_ko": null
-  },
-  {
     "source": "youtube",
     "title": "Banco Bradesco Scales Generative AI on Azure Red Hat OpenShift",
     "url": "https://www.youtube.com/watch?v=4wvoY3Il2x0",
@@ -500,7 +516,7 @@
     "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
     "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
     "published_at": "2026-04-06T21:52:08Z",
-    "score": 244,
+    "score": 254,
     "summary_ko": null
   },
   {
@@ -556,7 +572,7 @@
     "title": "Anthropic is burning more and more dev goodwill",
     "url": "https://twitter.com/GergelyOrosz/status/2041133254586122605",
     "published_at": "2026-04-06T15:40:49Z",
-    "score": 62,
+    "score": 63,
     "summary_ko": null
   },
   {
@@ -596,7 +612,7 @@
     "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
     "url": "https://github.com/anthropics/claude-code/issues/42796",
     "published_at": "2026-04-06T13:50:35Z",
-    "score": 1088,
+    "score": 1135,
     "summary_ko": null
   },
   {
@@ -844,7 +860,7 @@
     "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
     "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
     "published_at": "2026-04-02T16:00:27Z",
-    "score": 1279,
+    "score": 1280,
     "summary_ko": null
   },
   {
@@ -1232,14 +1248,6 @@
     "summary_ko": null
   },
   {
-    "source": "hn",
-    "title": "Show HN: Rostra – Scroll the Greats",
-    "url": "https://www.readrostra.com",
-    "published_at": "2026-03-25T21:55:11Z",
-    "score": 1,
-    "summary_ko": null
-  },
-  {
     "source": "github",
     "title": "v0.14.19",
     "url": "https://github.com/run-llama/llama_index/releases/tag/v0.14.19",
@@ -1449,114 +1457,74 @@
   },
   {
     "source": "github",
-    "title": "abhigyanpatwari/GitNexus",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "published_at": "2026-04-07T09:41:25.053343Z",
-    "score": 23971,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
     "title": "google-ai-edge/gallery",
     "url": "https://github.com/google-ai-edge/gallery",
-    "published_at": "2026-04-07T09:41:25.053581Z",
-    "score": 18290,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "aaif-goose/goose",
-    "url": "https://github.com/aaif-goose/goose",
-    "published_at": "2026-04-07T09:41:25.053802Z",
-    "score": 38545,
+    "published_at": "2026-04-07T11:04:18.504179Z",
+    "score": 18322,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "google-ai-edge/LiteRT-LM",
     "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "published_at": "2026-04-07T09:41:25.054065Z",
-    "score": 2253,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "immich-app/immich",
-    "url": "https://github.com/immich-app/immich",
-    "published_at": "2026-04-07T09:41:25.054264Z",
-    "score": 97125,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "KeygraphHQ/shannon",
-    "url": "https://github.com/KeygraphHQ/shannon",
-    "published_at": "2026-04-07T09:41:25.054461Z",
-    "score": 36964,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-04-07T09:41:25.054653Z",
-    "score": 29189,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "tobi/qmd",
-    "url": "https://github.com/tobi/qmd",
-    "published_at": "2026-04-07T09:41:25.054858Z",
-    "score": 19103,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "TelegramMessenger/Telegram-iOS",
-    "url": "https://github.com/TelegramMessenger/Telegram-iOS",
-    "published_at": "2026-04-07T09:41:25.055070Z",
-    "score": 8385,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "kepano/obsidian-skills",
-    "url": "https://github.com/kepano/obsidian-skills",
-    "published_at": "2026-04-07T09:41:25.055314Z",
-    "score": 21087,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "ollama/ollama",
-    "url": "https://github.com/ollama/ollama",
-    "published_at": "2026-04-07T09:41:25.055567Z",
-    "score": 167945,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp",
-    "published_at": "2026-04-07T09:41:25.055765Z",
-    "score": 102240,
-    "summary_ko": null
-  },
-  {
-    "source": "github",
-    "title": "siddharthvaddem/openscreen",
-    "url": "https://github.com/siddharthvaddem/openscreen",
-    "published_at": "2026-04-07T09:41:25.055956Z",
-    "score": 24709,
+    "published_at": "2026-04-07T11:04:18.504486Z",
+    "score": 2277,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "NVIDIA/personaplex",
     "url": "https://github.com/NVIDIA/personaplex",
-    "published_at": "2026-04-07T09:41:25.056166Z",
-    "score": 7587,
+    "published_at": "2026-04-07T11:04:18.504707Z",
+    "score": 7620,
+    "summary_ko": null
+  },
+  {
+    "source": "github",
+    "title": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "published_at": "2026-04-07T11:04:18.504977Z",
+    "score": 24024,
+    "summary_ko": null
+  },
+  {
+    "source": "github",
+    "title": "tobi/qmd",
+    "url": "https://github.com/tobi/qmd",
+    "published_at": "2026-04-07T11:04:18.505261Z",
+    "score": 19145,
+    "summary_ko": null
+  },
+  {
+    "source": "github",
+    "title": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "published_at": "2026-04-07T11:04:18.505491Z",
+    "score": 7697,
+    "summary_ko": null
+  },
+  {
+    "source": "github",
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "published_at": "2026-04-07T11:04:18.505686Z",
+    "score": 9693,
+    "summary_ko": null
+  },
+  {
+    "source": "github",
+    "title": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "published_at": "2026-04-07T11:04:18.505879Z",
+    "score": 11625,
+    "summary_ko": null
+  },
+  {
+    "source": "github",
+    "title": "TheCraigHewitt/seomachine",
+    "url": "https://github.com/TheCraigHewitt/seomachine",
+    "published_at": "2026-04-07T11:04:18.506071Z",
+    "score": 3551,
     "summary_ko": null
   }
 ]
