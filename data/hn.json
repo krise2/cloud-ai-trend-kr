@@ -1,8 +1,19 @@
 {
   "source": "hn",
-  "collected_at": "2026-04-07T11:15:30.021226Z",
+  "collected_at": "2026-04-07T11:20:33.870901Z",
   "total": 105,
   "items": [
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "StructuredTaskScope beyond toy example dependency-aware kernel bootstrap in Java",
+      "url": "https://blog.arkstack.dev/en/blog/structured-task-scope-beyond-toy-examples/",
+      "published_at": "2026-04-07T11:18:44Z",
+      "author": "arkstack",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47673455"
+    },
     {
       "source": "hn",
       "keyword": "aws",
@@ -11,7 +22,7 @@
       "published_at": "2026-04-07T11:11:34Z",
       "author": "mhrnik",
       "points": 1,
-      "num_comments": 0,
+      "num_comments": 1,
       "objectID": "47673386"
     },
     {
@@ -214,17 +225,6 @@
     },
     {
       "source": "hn",
-      "keyword": "aws",
-      "title": "Austin VS Code hits v1, brings profiling MCP, live attach, and more",
-      "url": "https://marketplace.visualstudio.com/items?itemName=p403n1x87.austin-vscode",
-      "published_at": "2026-04-07T08:22:37Z",
-      "author": "p403n1x87",
-      "points": 1,
-      "num_comments": 0,
-      "objectID": "47672180"
-    },
-    {
-      "source": "hn",
       "keyword": "claude",
       "title": "FREDCode – Claude-Native Macro Fred Research",
       "url": "https://modolap.com/publication/fred-1",
@@ -297,7 +297,7 @@
       "published_at": "2026-04-07T04:45:06Z",
       "author": "stickynotememo",
       "points": 3,
-      "num_comments": 1,
+      "num_comments": 2,
       "objectID": "47670854"
     },
     {
@@ -420,6 +420,17 @@
       "points": 1,
       "num_comments": 1,
       "objectID": "47669114"
+    },
+    {
+      "source": "hn",
+      "keyword": "openai",
+      "title": "No \"New Deal\" for OpenAI",
+      "url": "https://minutes.substack.com/p/no-new-deal-for-openai",
+      "published_at": "2026-04-07T11:17:38Z",
+      "author": "jger15",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47673444"
     },
     {
       "source": "hn",
@@ -618,17 +629,6 @@
       "points": 6,
       "num_comments": 0,
       "objectID": "47658701"
-    },
-    {
-      "source": "hn",
-      "keyword": "openai",
-      "title": "Show HN: REST API for Gymnasium (fka OpenAI Gym) reinforcement learning library",
-      "url": "https://github.com/cloudkj/gymnasium-http-api",
-      "published_at": "2026-04-06T04:59:00Z",
-      "author": "cloudkj",
-      "points": 1,
-      "num_comments": 1,
-      "objectID": "47657165"
     },
     {
       "source": "hn",
@@ -1018,17 +1018,6 @@
     {
       "source": "hn",
       "keyword": "anthropic",
-      "title": "Anthropic in chips deals with Google and Broadcom worth billions",
-      "url": "https://www.ft.com/content/28757ce7-0d9f-4ffb-bb91-16dc83f2cf6a",
-      "published_at": "2026-04-07T11:12:36Z",
-      "author": "giuliomagnifico",
-      "points": 1,
-      "num_comments": 0,
-      "objectID": "47673397"
-    },
-    {
-      "source": "hn",
-      "keyword": "anthropic",
       "title": "Anthropic revenue growth: $11 billion since start of March",
       "url": "https://news.ycombinator.com/item?id=47670850",
       "published_at": "2026-04-07T04:44:52Z",
@@ -1055,8 +1044,8 @@
       "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
       "published_at": "2026-04-06T21:52:08Z",
       "author": "l1n",
-      "points": 254,
-      "num_comments": 114,
+      "points": 255,
+      "num_comments": 115,
       "objectID": "47667717"
     },
     {
@@ -1110,7 +1099,7 @@
       "url": "https://github.com/anthropics/claude-code/issues/42796",
       "published_at": "2026-04-06T13:50:35Z",
       "author": "StanAngeloff",
-      "points": 1139,
+      "points": 1141,
       "num_comments": 626,
       "objectID": "47660925"
     },
@@ -1157,6 +1146,17 @@
       "points": 2,
       "num_comments": 0,
       "objectID": "47657432"
+    },
+    {
+      "source": "hn",
+      "keyword": "anthropic",
+      "title": "Anthropic Removed MagicDocs from Claude Code",
+      "url": "https://translunar.io/blog/2026/04/05/magicdocs-removed/",
+      "published_at": "2026-04-06T04:59:46Z",
+      "author": "translunar",
+      "points": 4,
+      "num_comments": 1,
+      "objectID": "47657169"
     }
   ]
 }
