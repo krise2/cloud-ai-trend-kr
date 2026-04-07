@@ -1,6 +1,14 @@
 [
   {
     "source": "hn",
+    "title": "FREDCode – Claude-Native Macro Fred Research",
+    "url": "https://modolap.com/publication/fred-1",
+    "published_at": "2026-04-07T11:04:41Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
     "title": "Show HN: Onboardly – Ask questions about any GitHub codebase in plain English",
     "url": "https://onboardly-ruddy.vercel.app",
     "published_at": "2026-04-07T10:57:30Z",
@@ -481,14 +489,6 @@
   },
   {
     "source": "hn",
-    "title": "Show HN: Separating work and play in Claude Code",
-    "url": "https://github.com/diranged/claude-profile",
-    "published_at": "2026-04-07T00:03:27Z",
-    "score": 2,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
     "title": "OpenAI's vision for the AI economy: public wealth funds, robot taxes, and more",
     "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
     "published_at": "2026-04-06T23:55:34Z",
@@ -612,7 +612,7 @@
     "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
     "url": "https://github.com/anthropics/claude-code/issues/42796",
     "published_at": "2026-04-06T13:50:35Z",
-    "score": 1135,
+    "score": 1138,
     "summary_ko": null
   },
   {
@@ -1459,72 +1459,72 @@
     "source": "github",
     "title": "google-ai-edge/gallery",
     "url": "https://github.com/google-ai-edge/gallery",
-    "published_at": "2026-04-07T11:04:18.504179Z",
-    "score": 18322,
+    "published_at": "2026-04-07T11:10:06.495688Z",
+    "score": 18330,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "google-ai-edge/LiteRT-LM",
     "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "published_at": "2026-04-07T11:04:18.504486Z",
-    "score": 2277,
+    "published_at": "2026-04-07T11:10:06.495969Z",
+    "score": 2279,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "NVIDIA/personaplex",
     "url": "https://github.com/NVIDIA/personaplex",
-    "published_at": "2026-04-07T11:04:18.504707Z",
-    "score": 7620,
+    "published_at": "2026-04-07T11:10:06.496221Z",
+    "score": 7626,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "abhigyanpatwari/GitNexus",
     "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "published_at": "2026-04-07T11:04:18.504977Z",
-    "score": 24024,
+    "published_at": "2026-04-07T11:10:06.496490Z",
+    "score": 24026,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "tobi/qmd",
     "url": "https://github.com/tobi/qmd",
-    "published_at": "2026-04-07T11:04:18.505261Z",
-    "score": 19145,
+    "published_at": "2026-04-07T11:10:06.496751Z",
+    "score": 19149,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "forrestchang/andrej-karpathy-skills",
     "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-    "published_at": "2026-04-07T11:04:18.505491Z",
-    "score": 7697,
+    "published_at": "2026-04-07T11:10:06.496974Z",
+    "score": 7700,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "elebumm/RedditVideoMakerBot",
     "url": "https://github.com/elebumm/RedditVideoMakerBot",
-    "published_at": "2026-04-07T11:04:18.505686Z",
-    "score": 9693,
+    "published_at": "2026-04-07T11:10:06.497190Z",
+    "score": 9695,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "HKUDS/DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "published_at": "2026-04-07T11:04:18.505879Z",
-    "score": 11625,
+    "published_at": "2026-04-07T11:10:06.497383Z",
+    "score": 11626,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "TheCraigHewitt/seomachine",
     "url": "https://github.com/TheCraigHewitt/seomachine",
-    "published_at": "2026-04-07T11:04:18.506071Z",
-    "score": 3551,
+    "published_at": "2026-04-07T11:10:06.497580Z",
+    "score": 3554,
     "summary_ko": null
   }
 ]

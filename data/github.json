@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "collected_at": "2026-04-07T11:04:18.506960Z",
+  "collected_at": "2026-04-07T11:10:06.498727Z",
   "total": 49,
   "items": [
     {
@@ -369,8 +369,8 @@
       "title": "google-ai-edge/gallery",
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": "18,322",
-      "published_at": "2026-04-07T11:04:18.504179Z"
+      "stars": "18,330",
+      "published_at": "2026-04-07T11:10:06.495688Z"
     },
     {
       "source": "github_trending",
@@ -378,8 +378,8 @@
       "title": "google-ai-edge/LiteRT-LM",
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
       "description": "",
-      "stars": "2,277",
-      "published_at": "2026-04-07T11:04:18.504486Z"
+      "stars": "2,279",
+      "published_at": "2026-04-07T11:10:06.495969Z"
     },
     {
       "source": "github_trending",
@@ -387,8 +387,8 @@
       "title": "NVIDIA/personaplex",
       "url": "https://github.com/NVIDIA/personaplex",
       "description": "PersonaPlex code.",
-      "stars": "7,620",
-      "published_at": "2026-04-07T11:04:18.504707Z"
+      "stars": "7,626",
+      "published_at": "2026-04-07T11:10:06.496221Z"
     },
     {
       "source": "github_trending",
@@ -396,8 +396,8 @@
       "title": "abhigyanpatwari/GitNexus",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": "24,024",
-      "published_at": "2026-04-07T11:04:18.504977Z"
+      "stars": "24,026",
+      "published_at": "2026-04-07T11:10:06.496490Z"
     },
     {
       "source": "github_trending",
@@ -405,8 +405,8 @@
       "title": "tobi/qmd",
       "url": "https://github.com/tobi/qmd",
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "stars": "19,145",
-      "published_at": "2026-04-07T11:04:18.505261Z"
+      "stars": "19,149",
+      "published_at": "2026-04-07T11:10:06.496751Z"
     },
     {
       "source": "github_trending",
@@ -414,8 +414,8 @@
       "title": "forrestchang/andrej-karpathy-skills",
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "",
-      "stars": "7,697",
-      "published_at": "2026-04-07T11:04:18.505491Z"
+      "stars": "7,700",
+      "published_at": "2026-04-07T11:10:06.496974Z"
     },
     {
       "source": "github_trending",
@@ -423,8 +423,8 @@
       "title": "elebumm/RedditVideoMakerBot",
       "url": "https://github.com/elebumm/RedditVideoMakerBot",
       "description": "Create Reddit Videos with just✨ one command ✨",
-      "stars": "9,693",
-      "published_at": "2026-04-07T11:04:18.505686Z"
+      "stars": "9,695",
+      "published_at": "2026-04-07T11:10:06.497190Z"
     },
     {
       "source": "github_trending",
@@ -432,8 +432,8 @@
       "title": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-      "stars": "11,625",
-      "published_at": "2026-04-07T11:04:18.505879Z"
+      "stars": "11,626",
+      "published_at": "2026-04-07T11:10:06.497383Z"
     },
     {
       "source": "github_trending",
@@ -441,8 +441,8 @@
       "title": "TheCraigHewitt/seomachine",
       "url": "https://github.com/TheCraigHewitt/seomachine",
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-      "stars": "3,551",
-      "published_at": "2026-04-07T11:04:18.506071Z"
+      "stars": "3,554",
+      "published_at": "2026-04-07T11:10:06.497580Z"
     }
   ]
 }
