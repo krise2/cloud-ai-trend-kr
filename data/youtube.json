@@ -1,0 +1,247 @@
+{
+  "source": "youtube",
+  "collected_at": "2026-04-07T09:28:28.613023Z",
+  "total": 30,
+  "items": [
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "Banco Bradesco Scales Generative AI on Azure Red Hat OpenShift",
+      "url": "https://www.youtube.com/watch?v=4wvoY3Il2x0",
+      "published_at": "2026-04-06T23:27:00+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "Is context engineering the new RAG?",
+      "url": "https://www.youtube.com/watch?v=wGpJdn8frYE",
+      "published_at": "2026-03-31T19:14:19+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "AI at Scale: The Return on Intelligence | Microsoft at MWC",
+      "url": "https://www.youtube.com/watch?v=AxYXYSqRkdY",
+      "published_at": "2026-03-30T06:48:36+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: Sovereign AI Data Processing",
+      "url": "https://www.youtube.com/watch?v=5IG2lM_1NMI",
+      "published_at": "2026-03-26T00:56:17+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: Regulatory Requirements",
+      "url": "https://www.youtube.com/watch?v=BROJqkmxlE4",
+      "published_at": "2026-03-26T00:53:53+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: Business Continuity",
+      "url": "https://www.youtube.com/watch?v=zQHKnpsutZU",
+      "published_at": "2026-03-26T00:53:24+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: Data Residency",
+      "url": "https://www.youtube.com/watch?v=u9kvCbqQP5U",
+      "published_at": "2026-03-26T00:53:09+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "Microsoft Sovereign Cloud Core Customer Scenarios: No Cloud Operator Access",
+      "url": "https://www.youtube.com/watch?v=VAq-iDODtfI",
+      "published_at": "2026-03-26T00:52:53+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "Wait, my agent needs a database?",
+      "url": "https://www.youtube.com/watch?v=k9QgmurnNCU",
+      "published_at": "2026-03-24T16:00:00+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Microsoft_Azure",
+      "title": "Priority Processing for Foundry Models",
+      "url": "https://www.youtube.com/watch?v=LwzLFeUJXiE",
+      "published_at": "2026-03-23T16:00:00+00:00",
+      "author": "Microsoft Azure"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "Vibe coding to production: AI agents, testing & CI/CD with Gemini CLI",
+      "url": "https://www.youtube.com/watch?v=qCBreTfjFHQ",
+      "published_at": "2026-04-04T16:01:22+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "Vibe coding with Gemini CLI: Context engineering, MCP servers & extensions",
+      "url": "https://www.youtube.com/watch?v=cfPW2nTVNOQ",
+      "published_at": "2026-04-04T04:00:39+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "Google Cloud Live: Accelerate data science and analytics with GPUs",
+      "url": "https://www.youtube.com/watch?v=yBxRoYj-i28",
+      "published_at": "2026-04-03T15:58:13+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "Run Security Analysis using Gemini CLI locally and on GitHub",
+      "url": "https://www.youtube.com/watch?v=kDtJXgllXko",
+      "published_at": "2026-04-03T15:54:45+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "Build personal AI Assistants as Google Workspace Add-ons, in Gmail, Calendar, etc",
+      "url": "https://www.youtube.com/watch?v=h7nYnzGQp9k",
+      "published_at": "2026-04-02T16:01:07+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "Can we fix this AI agent in 60 minutes? (Live builder Q&A)",
+      "url": "https://www.youtube.com/watch?v=md2VFN6SojQ",
+      "published_at": "2026-04-02T15:10:30+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "Hands-on AI workshop: Graph RAG, Memory & Multimodal Agents",
+      "url": "https://www.youtube.com/watch?v=FzvIuoIJCcU",
+      "published_at": "2026-03-31T17:35:53+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "He built an entire business using Google AI (ft @digitalsamaritan) | The Agent Factory Podcast",
+      "url": "https://www.youtube.com/watch?v=_KW-vgPtHlc",
+      "published_at": "2026-03-30T15:10:18+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "How to Build a production-ready RAG AI agent",
+      "url": "https://www.youtube.com/watch?v=Ni1P8TITtE8",
+      "published_at": "2026-03-28T19:00:00+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "Google_Cloud",
+      "title": "Build an AI Agent knowledge base using SQL (BigQuery + Gemini)",
+      "url": "https://www.youtube.com/watch?v=zvmtHZSt8es",
+      "published_at": "2026-03-28T16:00:00+00:00",
+      "author": "Google Cloud Tech"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "If you want to make social media work for you, focus on building true connections",
+      "url": "https://www.youtube.com/shorts/pRcITcZ4laM",
+      "published_at": "2026-04-06T12:17:21+00:00",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "To keep clients: Do what you promise, communicate clearly, listen closely, and show you really care",
+      "url": "https://www.youtube.com/shorts/T8PMKaNP_UA",
+      "published_at": "2026-04-05T12:43:28+00:00",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "Why was the developer unhappy at their job...?",
+      "url": "https://www.youtube.com/shorts/gM2Ra8GpGuU",
+      "published_at": "2026-04-04T12:32:15+00:00",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "When you're trying to learn a new deep skill, a structured approach is everything.",
+      "url": "https://www.youtube.com/shorts/gLm8i6ryFmA",
+      "published_at": "2026-04-03T12:18:34+00:00",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "Lessons from 15,031 hours of coding live on Twitch with Chris Griffing [Podcast #214]",
+      "url": "https://www.youtube.com/watch?v=ajIss2t5FxM",
+      "published_at": "2026-04-03T10:00:06+00:00",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "The Bad Website Club bootcamp is back - and they're going through fCC's RWD cert",
+      "url": "https://www.youtube.com/shorts/zJHXDuUzFkc",
+      "published_at": "2026-04-02T20:01:46+00:00",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "How streaming works in Next.js, explained with a simple example",
+      "url": "https://www.youtube.com/shorts/Q4reYv2-t4g",
+      "published_at": "2026-04-02T11:52:24+00:00",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "SaaS Marketing for Developers – Automate Sales Tasks with AI",
+      "url": "https://www.youtube.com/watch?v=wYx9Q6dcJCw",
+      "published_at": "2026-04-02T10:01:21+00:00",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "Joke of the day: Why do programmers prefer dark mode?",
+      "url": "https://www.youtube.com/shorts/ADAtpF-0gTw",
+      "published_at": "2026-04-01T12:29:21+00:00",
+      "author": "freeCodeCamp.org"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "freeCodeCamp",
+      "title": "If you can contribute to an open source project and collaborate with others, you can work anywhere",
+      "url": "https://www.youtube.com/shorts/5e9J47H9EFE",
+      "published_at": "2026-03-31T12:05:20+00:00",
+      "author": "freeCodeCamp.org"
+    }
+  ]
+}

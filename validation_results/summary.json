@@ -1,0 +1,54 @@
+{
+  "run_at": "2026-04-07T09:20:40.208147Z",
+  "validations": [
+    {
+      "source": "github",
+      "total": 54,
+      "duplicate_url_ratio": 0.0,
+      "freshness_7d_ratio": 0.5,
+      "empty_title_ratio": 0.0,
+      "empty_url_ratio": 0.0,
+      "keyword_relevance_ratio": 0.9074,
+      "issues": [
+        "이상 없음"
+      ]
+    },
+    {
+      "source": "youtube",
+      "total": 30,
+      "duplicate_url_ratio": 0.0,
+      "freshness_7d_ratio": 0.6667,
+      "empty_title_ratio": 0.0,
+      "empty_url_ratio": 0.0,
+      "keyword_relevance_ratio": 0.7333,
+      "issues": [
+        "이상 없음"
+      ]
+    },
+    {
+      "source": "reddit",
+      "total": 150,
+      "duplicate_url_ratio": 0.0,
+      "freshness_7d_ratio": 0.9667,
+      "empty_title_ratio": 0.0,
+      "empty_url_ratio": 0.0,
+      "keyword_relevance_ratio": 0.96,
+      "issues": [
+        "이상 없음"
+      ]
+    },
+    {
+      "source": "hn",
+      "total": 106,
+      "duplicate_url_ratio": 0.0377,
+      "freshness_7d_ratio": 0.9245,
+      "empty_title_ratio": 0.0,
+      "empty_url_ratio": 0.0,
+      "keyword_relevance_ratio": 1.0,
+      "issues": [
+        "이상 없음"
+      ]
+    }
+  ],
+  "total_collected": 340
+}
