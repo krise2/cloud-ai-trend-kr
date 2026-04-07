@@ -12,6 +12,7 @@ run_all.py — 모든 수집기를 순차 실행하고 data/ 에 결과를 저�
 
 import sys
 import json
+import os
 import time
 from pathlib import Path
 from datetime import datetime, timezone, timedelta
@@ -32,14 +33,23 @@ KST = timezone(timedelta(hours=9))
 
 
 # ── 정규화 헬퍼 ──────────────────────────────────────────────
+REDDIT_MEDIA_PREFIXES = ("https://i.redd.it", "https://v.redd.it", "/r/", "https://www.reddit.com/gallery/")
+
+
 def normalize(item: dict, source: str) -> dict:
     """소스별 아이템을 공통 스키마로 변환한다."""
     title = item.get("title", "")
-    url = (
-        item.get("url")
-        or item.get("permalink")
-        or ""
-    )
+    raw_url = item.get("url") or ""
+    permalink = item.get("permalink") or ""
+
+    if source == "reddit":
+        # Reddit 미디어 직접 링크(이미지/영상/갤러리)는 토론 페이지(permalink)로 대체
+        if raw_url.startswith(REDDIT_MEDIA_PREFIXES) or not raw_url:
+            url = permalink or raw_url
+        else:
+            url = raw_url
+    else:
+        url = raw_url or permalink or ""
     published_at = item.get("published_at", "")
     score = (
         item.get("score")
@@ -158,6 +168,49 @@ def main():
     now_kst = datetime.now(KST).isoformat()
     updated_path = DATA_DIR / "last_updated.txt"
     updated_path.write_text(now_kst + "\n", encoding="utf-8")
+
+    # ── Supabase DB 저장 ──────────────────────────────────────
+    supabase_url = os.environ.get("SUPABASE_URL")
+    supabase_key = os.environ.get("SUPABASE_SERVICE_KEY")
+
+    if supabase_url and supabase_key:
+        try:
+            from supabase import create_client
+            db = create_client(supabase_url, supabase_key)
+
+            # 1) collection_runs 행 삽입
+            run_res = db.table("collection_runs").insert({
+                "collected_at": datetime.now(timezone.utc).isoformat(),
+                "source_counts": counts,
+                "total_items": len(latest),
+            }).execute()
+            run_id = run_res.data[0]["id"]
+            print(f"\n  [Supabase] collection_runs 삽입 완료 (run_id={run_id})")
+
+            # 2) trend_items 행 삽입 (배치)
+            rows = [
+                {
+                    "run_id": run_id,
+                    "source": item["source"],
+                    "title": item["title"],
+                    "url": item["url"],
+                    "published_at": item["published_at"] or None,
+                    "score": item["score"],
+                    "summary_ko": item.get("summary_ko"),
+                    "project_relevant": item.get("project_relevant", False),
+                    "relevance_score": item.get("relevance_score"),
+                    "project_note": item.get("project_note"),
+                    "collected_at": datetime.now(timezone.utc).isoformat(),
+                }
+                for item in latest
+            ]
+            db.table("trend_items").insert(rows).execute()
+            print(f"  [Supabase] trend_items 삽입 완료 ({len(rows)}건)")
+
+        except Exception as e:
+            print(f"  [Supabase] 저장 실패 (수집 결과는 정상): {e}")
+    else:
+        print("\n  [Supabase] 환경변수 없음 — DB 저장 건너뜀")
 
     # ── 최종 요약 ─────────────────────────────────────────────
     elapsed_total = time.time() - start
