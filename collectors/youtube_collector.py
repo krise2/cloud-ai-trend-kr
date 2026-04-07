@@ -11,7 +11,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 
 CHANNELS = {
-    "AWS": "UCVHVbLlEjAGBfKEMRfqgAoQ",
+    "AWS": "UCd6MoB9NC6uYN2grvUNT-Zg",
     "Microsoft_Azure": "UC0m-80FnNY2Qb7obvTL_2fA",
     "Google_Cloud": "UCJS9pqu9BzkAMNTmzNMNhvg",
     "freeCodeCamp": "UC8butISFwT-Wl7EV0hUK0BQ",
