@@ -1,6 +1,22 @@
 [
   {
     "source": "hn",
+    "title": "Anthropic in chips deals with Google and Broadcom worth billions",
+    "url": "https://www.ft.com/content/28757ce7-0d9f-4ffb-bb91-16dc83f2cf6a",
+    "published_at": "2026-04-07T11:12:36Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
+    "title": "Built $5M. Got 1%. Got let go",
+    "url": "https://news.ycombinator.com/item?id=47673386",
+    "published_at": "2026-04-07T11:11:34Z",
+    "score": 1,
+    "summary_ko": null
+  },
+  {
+    "source": "hn",
     "title": "FREDCode – Claude-Native Macro Fred Research",
     "url": "https://modolap.com/publication/fred-1",
     "published_at": "2026-04-07T11:04:41Z",
@@ -229,14 +245,6 @@
     "url": "https://marketplace.visualstudio.com/items?itemName=p403n1x87.austin-vscode",
     "published_at": "2026-04-07T08:22:37Z",
     "score": 1,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "Ask HN: Gmail's missing paste-to-link feature",
-    "url": "https://news.ycombinator.com/item?id=47672160",
-    "published_at": "2026-04-07T08:18:13Z",
-    "score": 3,
     "summary_ko": null
   },
   {
@@ -612,7 +620,7 @@
     "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
     "url": "https://github.com/anthropics/claude-code/issues/42796",
     "published_at": "2026-04-06T13:50:35Z",
-    "score": 1138,
+    "score": 1139,
     "summary_ko": null
   },
   {
@@ -685,14 +693,6 @@
     "url": "https://news.ycombinator.com/item?id=47657432",
     "published_at": "2026-04-06T05:55:41Z",
     "score": 2,
-    "summary_ko": null
-  },
-  {
-    "source": "hn",
-    "title": "Anthropic Removed MagicDocs from Claude Code",
-    "url": "https://translunar.io/blog/2026/04/05/magicdocs-removed/",
-    "published_at": "2026-04-06T04:59:46Z",
-    "score": 4,
     "summary_ko": null
   },
   {
@@ -1459,72 +1459,72 @@
     "source": "github",
     "title": "google-ai-edge/gallery",
     "url": "https://github.com/google-ai-edge/gallery",
-    "published_at": "2026-04-07T11:10:06.495688Z",
-    "score": 18330,
+    "published_at": "2026-04-07T11:14:54.539829Z",
+    "score": 18333,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "google-ai-edge/LiteRT-LM",
     "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "published_at": "2026-04-07T11:10:06.495969Z",
-    "score": 2279,
+    "published_at": "2026-04-07T11:14:54.540079Z",
+    "score": 2281,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "NVIDIA/personaplex",
     "url": "https://github.com/NVIDIA/personaplex",
-    "published_at": "2026-04-07T11:10:06.496221Z",
-    "score": 7626,
+    "published_at": "2026-04-07T11:14:54.540293Z",
+    "score": 7631,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "abhigyanpatwari/GitNexus",
     "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "published_at": "2026-04-07T11:10:06.496490Z",
-    "score": 24026,
+    "published_at": "2026-04-07T11:14:54.540529Z",
+    "score": 24030,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "tobi/qmd",
     "url": "https://github.com/tobi/qmd",
-    "published_at": "2026-04-07T11:10:06.496751Z",
-    "score": 19149,
+    "published_at": "2026-04-07T11:14:54.540766Z",
+    "score": 19153,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "forrestchang/andrej-karpathy-skills",
     "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-    "published_at": "2026-04-07T11:10:06.496974Z",
-    "score": 7700,
+    "published_at": "2026-04-07T11:14:54.540990Z",
+    "score": 7703,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "elebumm/RedditVideoMakerBot",
     "url": "https://github.com/elebumm/RedditVideoMakerBot",
-    "published_at": "2026-04-07T11:10:06.497190Z",
-    "score": 9695,
+    "published_at": "2026-04-07T11:14:54.541173Z",
+    "score": 9698,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "HKUDS/DeepTutor",
     "url": "https://github.com/HKUDS/DeepTutor",
-    "published_at": "2026-04-07T11:10:06.497383Z",
-    "score": 11626,
+    "published_at": "2026-04-07T11:14:54.541359Z",
+    "score": 11632,
     "summary_ko": null
   },
   {
     "source": "github",
     "title": "TheCraigHewitt/seomachine",
     "url": "https://github.com/TheCraigHewitt/seomachine",
-    "published_at": "2026-04-07T11:10:06.497580Z",
-    "score": 3554,
+    "published_at": "2026-04-07T11:14:54.541533Z",
+    "score": 3559,
     "summary_ko": null
   }
 ]
