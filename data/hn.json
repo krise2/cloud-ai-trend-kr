@@ -1,8 +1,41 @@
 {
   "source": "hn",
-  "collected_at": "2026-04-07T09:29:02.124181Z",
+  "collected_at": "2026-04-07T09:41:59.434011Z",
   "total": 105,
   "items": [
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "Ask HN: Why is USA evil now?",
+      "url": "https://news.ycombinator.com/item?id=47672703",
+      "published_at": "2026-04-07T09:38:51Z",
+      "author": "roschdal",
+      "points": 3,
+      "num_comments": 0,
+      "objectID": "47672703"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "Llamafile: Run LLMs locally as a single executable",
+      "url": "https://firethering.com/llamafile-run-ai-models-locally-one-file/",
+      "published_at": "2026-04-07T09:35:47Z",
+      "author": "steveharing1",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47672682"
+    },
+    {
+      "source": "hn",
+      "keyword": "aws",
+      "title": "Show HN: I built a business strategy simulation game with two different UI modes",
+      "url": "https://www.voltstrategist.com/",
+      "published_at": "2026-04-07T09:30:41Z",
+      "author": "phisphere",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47672652"
+    },
     {
       "source": "hn",
       "keyword": "aws",
@@ -11,7 +44,7 @@
       "published_at": "2026-04-07T09:23:14Z",
       "author": "moropex",
       "points": 1,
-      "num_comments": 0,
+      "num_comments": 2,
       "objectID": "47672605"
     },
     {
@@ -189,39 +222,6 @@
       "points": 4,
       "num_comments": 1,
       "objectID": "47671950"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "Show HN: I built an app using Apple Watch's water and HR sensors to track baths",
-      "url": "https://apps.apple.com/jp/app/furolog/id6760871897",
-      "published_at": "2026-04-07T07:44:28Z",
-      "author": "asutekku",
-      "points": 1,
-      "num_comments": 0,
-      "objectID": "47671940"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "Astronauts honor Artemis commander's deceased wife in emotional moon moment",
-      "url": "https://www.cnn.com/2026/04/07/world/video/lunar-crater-artemis-danny-olivas-elex-michaelson-intv-040701aseg2-cnni-world-fast",
-      "published_at": "2026-04-07T07:43:06Z",
-      "author": "01-_-",
-      "points": 3,
-      "num_comments": 0,
-      "objectID": "47671931"
-    },
-    {
-      "source": "hn",
-      "keyword": "aws",
-      "title": "There's no such thing as \"Accidentally\"",
-      "url": "https://theosechopoulos.com/accidentally",
-      "published_at": "2026-04-07T07:24:50Z",
-      "author": "bhaktatejas922",
-      "points": 1,
-      "num_comments": 0,
-      "objectID": "47671790"
     },
     {
       "source": "hn",
@@ -424,6 +424,17 @@
     {
       "source": "hn",
       "keyword": "openai",
+      "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "published_at": "2026-04-07T09:29:11Z",
+      "author": "marksully",
+      "points": 2,
+      "num_comments": 0,
+      "objectID": "47672642"
+    },
+    {
+      "source": "hn",
+      "keyword": "openai",
       "title": "OpenAI, Anthropic, Google Unite to Combat Model Copying in China",
       "url": "https://www.bloomberg.com/news/articles/2026-04-06/openai-anthropic-google-unite-to-combat-model-copying-in-china",
       "published_at": "2026-04-07T08:11:43Z",
@@ -618,17 +629,6 @@
       "points": 6,
       "num_comments": 1,
       "objectID": "47657041"
-    },
-    {
-      "source": "hn",
-      "keyword": "openai",
-      "title": "Show HN: Vim Navigator – MCP server that lets AI agents drive your Neovim",
-      "url": "https://github.com/kcaldas/vim-navigator",
-      "published_at": "2026-04-05T23:41:42Z",
-      "author": "kcaldas",
-      "points": 3,
-      "num_comments": 0,
-      "objectID": "47655128"
     },
     {
       "source": "hn",
@@ -919,6 +919,17 @@
     {
       "source": "hn",
       "keyword": "llm",
+      "title": "Show HN: I built an app using Apple Watch's water and HR sensors to track baths",
+      "url": "https://apps.apple.com/jp/app/furolog/id6760871897",
+      "published_at": "2026-04-07T07:44:28Z",
+      "author": "asutekku",
+      "points": 1,
+      "num_comments": 0,
+      "objectID": "47671940"
+    },
+    {
+      "source": "hn",
+      "keyword": "llm",
       "title": "Ask HN: How are you controlling costs and enforcing limits for LLM calls?",
       "url": "https://news.ycombinator.com/item?id=47671453",
       "published_at": "2026-04-07T06:33:36Z",
@@ -1006,17 +1017,6 @@
     },
     {
       "source": "hn",
-      "keyword": "llm",
-      "title": "A.I. Is on Its Way to Upending Cybersecurity",
-      "url": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
-      "published_at": "2026-04-07T02:47:35Z",
-      "author": "lxm",
-      "points": 4,
-      "num_comments": 1,
-      "objectID": "47670169"
-    },
-    {
-      "source": "hn",
       "keyword": "anthropic",
       "title": "Anthropic revenue growth: $11 billion since start of March",
       "url": "https://news.ycombinator.com/item?id=47670850",
@@ -1044,8 +1044,8 @@
       "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
       "published_at": "2026-04-06T21:52:08Z",
       "author": "l1n",
-      "points": 243,
-      "num_comments": 106,
+      "points": 244,
+      "num_comments": 109,
       "objectID": "47667717"
     },
     {
@@ -1099,8 +1099,8 @@
       "url": "https://github.com/anthropics/claude-code/issues/42796",
       "published_at": "2026-04-06T13:50:35Z",
       "author": "StanAngeloff",
-      "points": 1082,
-      "num_comments": 597,
+      "points": 1088,
+      "num_comments": 602,
       "objectID": "47660925"
     },
     {

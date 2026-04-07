@@ -1,8 +1,88 @@
 {
   "source": "youtube",
-  "collected_at": "2026-04-07T09:28:28.613023Z",
-  "total": 30,
+  "collected_at": "2026-04-07T09:41:33.272075Z",
+  "total": 40,
   "items": [
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "Preparation Station: Launch Monitors, Part II | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=kjeoa_NnVic",
+      "published_at": "2026-04-02T13:20:52+00:00",
+      "author": "Amazon Web Services"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "How Allianz Technology Scaled AI Innovation with AWS | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=8Oy9aa_EIPA",
+      "published_at": "2026-04-01T20:03:56+00:00",
+      "author": "Amazon Web Services"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "How Yum! Brands Built Its Own Technology Platform for Restaurant Operators | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=8POOO76nhQk",
+      "published_at": "2026-04-01T19:08:31+00:00",
+      "author": "Amazon Web Services"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "Scaling data integrity and AI on AWS with S3 Vectors | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=GT45In9UIzI",
+      "published_at": "2026-04-01T14:28:28+00:00",
+      "author": "Amazon Web Services"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "Pinterest Builds PromptHub to Scale Prompt Engineering using Amazon Bedrock | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=wOsbC-VK4aI",
+      "published_at": "2026-04-01T13:58:01+00:00",
+      "author": "Amazon Web Services"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "Security Hub Onboarding Walkthrough and Demo | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=prtnhCfjUpM",
+      "published_at": "2026-03-31T14:28:26+00:00",
+      "author": "Amazon Web Services"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "Inside the Ropes with the PGA TOUR, Episode 4: AI Commentary | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=4zrLeRjbGnM",
+      "published_at": "2026-03-31T14:18:54+00:00",
+      "author": "Amazon Web Services"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "NFL IQ 2026 | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=cqCue7jUVk4",
+      "published_at": "2026-03-30T18:27:46+00:00",
+      "author": "Amazon Web Services"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "Reimagining the Patient Journey at Experity with AWS | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=iXGK84bths0",
+      "published_at": "2026-03-30T16:20:18+00:00",
+      "author": "Amazon Web Services"
+    },
+    {
+      "source": "youtube_rss",
+      "channel": "AWS",
+      "title": "DSU - How AI is transforming the Media and Entertainment Industry | Amazon Web Services",
+      "url": "https://www.youtube.com/watch?v=0-Bv4YdD6SA",
+      "published_at": "2026-03-30T15:01:08+00:00",
+      "author": "Amazon Web Services"
+    },
     {
       "source": "youtube_rss",
       "channel": "Microsoft_Azure",

@@ -1,6 +1,6 @@
 {
   "source": "github",
-  "collected_at": "2026-04-07T09:28:19.207694Z",
+  "collected_at": "2026-04-07T09:41:25.057156Z",
   "total": 54,
   "items": [
     {
@@ -369,8 +369,8 @@
       "title": "abhigyanpatwari/GitNexus",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-      "stars": "23,954",
-      "published_at": "2026-04-07T09:28:19.205686Z"
+      "stars": "23,971",
+      "published_at": "2026-04-07T09:41:25.053343Z"
     },
     {
       "source": "github_trending",
@@ -378,8 +378,8 @@
       "title": "google-ai-edge/gallery",
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
-      "stars": "18,276",
-      "published_at": "2026-04-07T09:28:19.205823Z"
+      "stars": "18,290",
+      "published_at": "2026-04-07T09:41:25.053581Z"
     },
     {
       "source": "github_trending",
@@ -387,8 +387,8 @@
       "title": "aaif-goose/goose",
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-      "stars": "38,536",
-      "published_at": "2026-04-07T09:28:19.205943Z"
+      "stars": "38,545",
+      "published_at": "2026-04-07T09:41:25.053802Z"
     },
     {
       "source": "github_trending",
@@ -396,8 +396,8 @@
       "title": "google-ai-edge/LiteRT-LM",
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
       "description": "",
-      "stars": "2,243",
-      "published_at": "2026-04-07T09:28:19.206093Z"
+      "stars": "2,253",
+      "published_at": "2026-04-07T09:41:25.054065Z"
     },
     {
       "source": "github_trending",
@@ -405,8 +405,8 @@
       "title": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
-      "stars": "97,117",
-      "published_at": "2026-04-07T09:28:19.206211Z"
+      "stars": "97,125",
+      "published_at": "2026-04-07T09:41:25.054264Z"
     },
     {
       "source": "github_trending",
@@ -414,8 +414,8 @@
       "title": "KeygraphHQ/shannon",
       "url": "https://github.com/KeygraphHQ/shannon",
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-      "stars": "36,952",
-      "published_at": "2026-04-07T09:28:19.206328Z"
+      "stars": "36,964",
+      "published_at": "2026-04-07T09:41:25.054461Z"
     },
     {
       "source": "github_trending",
@@ -423,8 +423,8 @@
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
-      "stars": "29,149",
-      "published_at": "2026-04-07T09:28:19.206446Z"
+      "stars": "29,189",
+      "published_at": "2026-04-07T09:41:25.054653Z"
     },
     {
       "source": "github_trending",
@@ -432,8 +432,8 @@
       "title": "tobi/qmd",
       "url": "https://github.com/tobi/qmd",
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-      "stars": "19,094",
-      "published_at": "2026-04-07T09:28:19.206562Z"
+      "stars": "19,103",
+      "published_at": "2026-04-07T09:41:25.054858Z"
     },
     {
       "source": "github_trending",
@@ -441,8 +441,8 @@
       "title": "TelegramMessenger/Telegram-iOS",
       "url": "https://github.com/TelegramMessenger/Telegram-iOS",
       "description": "Telegram-iOS",
-      "stars": "8,384",
-      "published_at": "2026-04-07T09:28:19.206678Z"
+      "stars": "8,385",
+      "published_at": "2026-04-07T09:41:25.055070Z"
     },
     {
       "source": "github_trending",
@@ -450,8 +450,8 @@
       "title": "kepano/obsidian-skills",
       "url": "https://github.com/kepano/obsidian-skills",
       "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "stars": "21,071",
-      "published_at": "2026-04-07T09:28:19.206830Z"
+      "stars": "21,087",
+      "published_at": "2026-04-07T09:41:25.055314Z"
     },
     {
       "source": "github_trending",
@@ -459,8 +459,8 @@
       "title": "ollama/ollama",
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "stars": "167,939",
-      "published_at": "2026-04-07T09:28:19.206946Z"
+      "stars": "167,945",
+      "published_at": "2026-04-07T09:41:25.055567Z"
     },
     {
       "source": "github_trending",
@@ -468,8 +468,8 @@
       "title": "ggml-org/llama.cpp",
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
-      "stars": "102,237",
-      "published_at": "2026-04-07T09:28:19.207062Z"
+      "stars": "102,240",
+      "published_at": "2026-04-07T09:41:25.055765Z"
     },
     {
       "source": "github_trending",
@@ -477,8 +477,8 @@
       "title": "siddharthvaddem/openscreen",
       "url": "https://github.com/siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
-      "stars": "24,695",
-      "published_at": "2026-04-07T09:28:19.207177Z"
+      "stars": "24,709",
+      "published_at": "2026-04-07T09:41:25.055956Z"
     },
     {
       "source": "github_trending",
@@ -486,8 +486,8 @@
       "title": "NVIDIA/personaplex",
       "url": "https://github.com/NVIDIA/personaplex",
       "description": "PersonaPlex code.",
-      "stars": "7,584",
-      "published_at": "2026-04-07T09:28:19.207292Z"
+      "stars": "7,587",
+      "published_at": "2026-04-07T09:41:25.056166Z"
     }
   ]
 }
