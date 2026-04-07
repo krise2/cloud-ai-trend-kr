@@ -27,6 +27,6 @@ env/
 .DS_Store
 Thumbs.db
 
-# data/ 는 git 추적 대상 (Actions 자동 커밋)
-# data/ 를 제외하지 않음
+# data/ — Supabase DB로 이전, git 추적 불필요
+data/
 .omc/
