@@ -32,3 +32,13 @@ jobs:
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
         run: python collectors/run_all.py
 
+      - name: Keep workflow alive (prevent schedule disable)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/last_run.txt
+          git add .github/last_run.txt
+          git diff --cached --quiet || git commit -m "chore: keepalive [skip ci]"
+          git push
+        continue-on-error: true
+
